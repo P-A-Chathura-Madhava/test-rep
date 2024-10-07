@@ -1,4 +1,4 @@
 First line
 
 A line
-B line Change
+B line Changed to New line
